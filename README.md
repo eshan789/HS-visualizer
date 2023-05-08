@@ -1,2 +1,3 @@
 # HS-visualizer
-Heap Sort Visualization technique
+# Heap Sort Visualization technique
+# University Project
